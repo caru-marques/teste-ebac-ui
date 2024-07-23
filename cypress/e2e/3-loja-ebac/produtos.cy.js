@@ -2,7 +2,7 @@
 
 describe('Funcionalidade: Produtos', () => {
     beforeEach(() => {
-        cy.visit('http://lojaebac.ebaconline.art.br/produtos/')
+        cy.visit('produtos')
     });
 
     // afterEach(() => {
@@ -14,7 +14,7 @@ describe('Funcionalidade: Produtos', () => {
             // .first().click()
             // .last().click()
             // .eq(3).click()
-            .contains('Frankie Sweatshirt').click()
+            .contains('Abominable Hoodie').click()
 
             cy.get('#tab-title-description > a').should('contain', 'Descrição')
     });

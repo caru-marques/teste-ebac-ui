@@ -2,7 +2,7 @@
 
 describe('Funcionalidade: Blog Grid', () => {
     beforeEach(() => {
-        cy.visit('http://lojaebac.ebaconline.art.br/blog-grid/')
+        cy.visit('blog-grid')
     });
 
     it('Deve selecionar um blog post da lista', () => {
