@@ -1,0 +1,20 @@
+[
+    {
+        "nomeProduto": "Augusta Pullover Jacket",
+        "tamanho" : "M",
+        "cor": "Orange",
+        "quantidade": "1"
+    },
+    {
+        "nomeProduto": "Ariel Roll Sleeve Sweatshirt",
+        "tamanho" : "L",
+        "cor": "Purple",
+        "quantidade": "5"
+    },
+    {
+        "nomeProduto": "Eos V-Neck Hoodie",
+        "tamanho" : "M",
+        "cor": "Blue",
+        "quantidade": "2"
+    }
+]
